@@ -1,0 +1,18 @@
+# VS Code
+.vscode/*
+!.vscode/launch.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temporary files
+*.log
+*.tmp
+
+# Local development
+node_modules/
+.env
+
+# Generated screenshots / exports
+screenshots/*.png
